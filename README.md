@@ -14,5 +14,5 @@ Passionate about solving problems.
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=openjdk&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=openjdk&logoColor=white)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=openjdk&logoColor=white)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=bitbucket&logoColor=white)
 
